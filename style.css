@@ -1,0 +1,94 @@
+body{
+    text-align:center;
+    padding-top:800px;
+    
+}
+#img {
+    width:400px;
+    border-radius:20%;
+    margin-top: 90px;
+    
+    
+}
+.jeinie{
+    position:absolute;
+     overflow:hidden;
+     height:800px;
+    display:table;
+      width:100%;
+    height:100%;
+    left:0 ;
+    top:0;
+    right:0;
+    bottom:0;
+    color:black;
+    background:linear-gradient(#220452 0%, #9006c7 100% );
+    z-index: 2;
+}
+h1{
+    font-family:cursive;  
+    font-size: 40px;
+    
+}
+h2{
+    font-family:serif;   
+    font-size: 20px;
+    line-height: 1.5px;
+}
+.line{
+    width:100px;
+    height:6px;
+    background-color: blue;
+    margin:8px auto;
+    
+}
+.ibox{
+    vertical-align:middle;
+    display:table-cell;
+    
+}
+p{
+    text-align:center;
+    font-size:15px;
+    
+}
+.bread jinnie{
+    text-align:center;
+      vertical-align:middle;
+    padding:50px;
+    
+}
+.ulala{
+     list-style: none;  
+     position:absolute;
+    top:5px;
+    right:50px;
+    cursor:pointer;
+    z-index:3;
+    
+    color: deeppink;
+  
+    
+}
+.link{
+    float:left;
+    padding: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.link:hover{
+    background-color: blue;
+}
+.crackhead{
+ width:300px;
+    height:300px;
+}
+  .photo{
+ width:400px;
+}
+.a{
+   text-decoration: none;
+}
+. a:hover{
+   color:aqua;
+}
